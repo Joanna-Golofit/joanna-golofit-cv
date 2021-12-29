@@ -110,7 +110,7 @@ body {
 /* ========= left-side ========= */
 
 .left-side {
-  width: 520px;
+  /* width: 520px; */
   background-color: #1e2939;
   color: #fff;
 }
