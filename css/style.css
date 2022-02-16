@@ -17,7 +17,7 @@ body {
 .projects,
 .jobs,
 .education {
-  margin-bottom: 60px;
+  margin-bottom: 50px;
 }
 
 .right-side {
@@ -68,9 +68,11 @@ body {
 }
 
 .projects-link {
-  color: #220fdc;
-  font-size: 14px;
+  color: #2414b1;
+  font-weight: 500;
+  font-size: 15px;
   line-height: 24px;
+  text-decoration: none;
 }
 
 .projects-link:hover {
@@ -86,6 +88,7 @@ body {
 
 .jobs-occupation,
 .education-degree {
+  margin-bottom: 0px;
   color: #2a2a2a;
   font-size: 16px;
   line-height: 1.25;
@@ -93,6 +96,7 @@ body {
 
 .jobs-time,
 .education-time {
+  margin: 6px 0;
   color: #828282;
   font-size: 12px;
   line-height: 1.5;
@@ -147,7 +151,7 @@ body {
 .contacts,
 .skills,
 .widget {
-  margin-bottom: 60px;
+  margin-bottom: 50px;
 }
 
 .contacts,
