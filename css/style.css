@@ -129,6 +129,10 @@ body {
   font-size: 14px;
   line-height: 1.714;
 }
+.rodo {
+  font-size: 9px;
+  line-height: 1.714;
+}
 
 .skills-list {
   list-style: none;
@@ -151,13 +155,15 @@ body {
 .contacts,
 .skills,
 .widget {
-  margin-bottom: 50px;
+  margin-bottom: 45px;
 }
 
 .contacts,
 .skills,
-.widget {
-  padding-left: 40px;
+.widget,
+.rodo-container {
+  padding-left: 35px;
+  padding-right: 19px;
 }
 
 .contacts-title,
